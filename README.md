@@ -1,7 +1,7 @@
 # Hi, I'm Rukayat Aramide Ibrahim 👋  
 **Data Scientist | Insight-driven | Python Enthusiast | Cloud Learner**
 
-I'm a Data Scientist with over 4 years of experience transforming complex datasets into strategic business value across the telecommunications, energy, and digital product sectors. I enjoy applying statistical modelling, predictive analytics, and intuitive dashboards to solve real-world problems.
+I am a Data Scientist with over 4 years of experience transforming complex datasets into strategic business value across the telecommunications, energy, and digital product sectors. I enjoy applying statistical modelling, predictive analytics, and intuitive dashboards to solve real-world problems.
 
 ---
 
@@ -48,7 +48,7 @@ Machine Learning | Forecasting | A/B Testing | ETL | Dashboard Development
 
 ### 🤝 Let’s Connect
 
-I’m open to collaborations, data-focused opportunities, and innovative projects.  
+Iam open to collaborations, data-focused opportunities, and innovative projects.  
 🔗 [LinkedIn](https://www.linkedin.com/in/rukayat-mide-ibrahim)  
 📬 rukayatmideibrahim@gmail.com  
 
