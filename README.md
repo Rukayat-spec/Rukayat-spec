@@ -5,7 +5,7 @@ I am a Data Scientist with over 4 years of experience transforming complex datas
 
 ---
 
-### 📊 Expertise
+### Expertise
 
 - Designing and deploying data pipelines and dashboards using **Power BI**, **Qlik Sense**, **SQL**, and **Python**
 - Applying **machine learning** models (GRU, XGBoost, Gaussian Processes) to build predictive systems
@@ -14,7 +14,7 @@ I am a Data Scientist with over 4 years of experience transforming complex datas
 
 ---
 
-### 🤖 Projects & Experience
+### Projects & Experience
 
 - **Algorithmic Forex Trading**: Built predictive models (GRU, XGBoost, GPR) with feature engineering and backtesting, achieving a cumulative return of 36% over 3 years.
 - **NYC Shooting Analysis**: Visualized trends across time, location, and demographics using Python to support public safety insights.
@@ -23,14 +23,14 @@ I am a Data Scientist with over 4 years of experience transforming complex datas
 
 ---
 
-### 💻 Tools & Tech Stack
+### Tools & Tech Stack
 
 Python | SQL | Power BI | GCP | BigQuery | Qlik Sense | Excel | Jupyter | Looker  
 Machine Learning | Forecasting | A/B Testing | ETL | Dashboard Development
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
 - **Advanced Deep Learning**
 - **MLOps** practices for deploying scalable ML solutions
@@ -38,7 +38,7 @@ Machine Learning | Forecasting | A/B Testing | ETL | Dashboard Development
 
 ---
 
-### 🎯 What Drives Me
+### What Drives Me
 
 - Solving real-world challenges with data
 - Making data intuitive and impactful
@@ -46,7 +46,7 @@ Machine Learning | Forecasting | A/B Testing | ETL | Dashboard Development
 
 ---
 
-### 🤝 Let’s Connect
+### Let’s Connect
 
 Iam open to collaborations, data-focused opportunities, and innovative projects.  
 🔗 [LinkedIn](https://www.linkedin.com/in/rukayat-mide-ibrahim)  
