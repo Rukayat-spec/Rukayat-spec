@@ -1,55 +1,165 @@
-# Hi, I am Rukayat Aramide Ibrahim 👋  
-**Data Scientist | Insight-driven | Python Enthusiast | Cloud Learner**
+# Hi, I'm Rukayat Aramide Ibrahim 👋
 
-I am a Data Scientist with over 5 years of experience transforming complex datasets into strategic business value across the telecommunications, energy, and digital product sectors. I enjoy applying statistical modelling, predictive analytics, and intuitive dashboards to solve real-world problems.
+### 👩🏽‍💻 Data Scientist | Machine Learning | Predictive Modelling | Python | Applied AI
 
----
+I'm a **Data Scientist with over 5 years of experience** applying statistical analysis, machine learning, and predictive modelling to solve real-world problems and support data-driven decision-making.
 
-### Expertise
+My background combines **Data Science, commercial analytics, and data engineering**, with hands-on experience developing forecasting models, experimenting with deep learning architectures, building automated data pipelines, and deploying machine learning solutions.
 
-- Designing and deploying data pipelines and dashboards using **Power BI**, **Qlik Sense**, **SQL**, and **Python**
-- Applying **machine learning** models (GRU, XGBoost, Gaussian Processes) to build predictive systems
-- Performing **data validation**, anomaly detection, and compliance reporting on cloud platforms like **GCP**
-- Communicating insights clearly to both technical and non-technical stakeholders
+I'm particularly interested in using **Machine Learning, Artificial Intelligence, and advanced analytics** to uncover patterns, predict outcomes, and develop intelligent systems that deliver measurable impact.
 
 ---
 
-### Projects & Experience
+## 🧠 Data Science Expertise
 
-- **Algorithmic Forex Trading**: Built predictive models (GRU, XGBoost, GPR) with feature engineering and backtesting, achieving a cumulative return of 36% over 3 years.
-- **NYC Shooting Analysis**: Visualized trends across time, location, and demographics using Python to support public safety insights.
-- **BT Group**: Delivered GCP-based validation frameworks, dashboards, and insights, improving audit efficiency and decision speed across broadband and mobile sales.
-- **Globacom**: Analyzed customer support data to identify pain points and optimize workflows, reducing churn and improving satisfaction.
-
----
-
-### Tools & Tech Stack
-
-Python | SQL | Power BI | GCP | BigQuery | Qlik Sense | Excel | Jupyter | Looker  
-Machine Learning | Forecasting | A/B Testing | ETL | Dashboard Development
+- **Machine Learning & Predictive Modelling:** Regression, classification, ensemble learning, time-series forecasting, feature engineering, and hyperparameter optimisation.
+- **Deep Learning:** GRU, LSTM, CNN, neural networks, and multimodal learning architectures using TensorFlow and Keras.
+- **Statistical Analysis & Experimentation:** Hypothesis testing, A/B testing, statistical inference, model evaluation, and experimental analysis.
+- **Model Development & Deployment:** Building, evaluating, and deploying predictive models using Python, scikit-learn, and AWS SageMaker.
+- **Data Engineering & MLOps:** Data preprocessing, ETL pipelines, PySpark, Databricks, cloud computing, and automated analytical workflows.
+- **Applied Data Science:** Financial forecasting, customer behaviour analysis, demand prediction, and commercial optimisation.
 
 ---
 
-### Currently Learning
+## 🚀 Featured Data Science Projects
 
-- **Advanced Deep Learning**
-- **MLOps** practices for deploying scalable ML solutions
-- **Cloud data engineering** with Google Cloud
+### 📈 1. Algorithmic Forex Trading Using Machine Learning
+
+**Tech Stack:** Python | TensorFlow | GRU | XGBoost | Gaussian Process Regression | AWS SageMaker
+
+Developed an end-to-end machine learning solution for financial time-series forecasting and algorithmic trading.
+
+- Built and compared **GRU, XGBoost, and Gaussian Process Regression** models to predict currency exchange rate movements.
+- Engineered technical indicators including RSI, MACD, ADX, and exponential moving averages.
+- Applied hyperparameter tuning and walk-forward validation to evaluate model performance.
+- Achieved an **R² score of 0.97** with the optimised GRU model.
+- Developed a backtesting strategy that achieved **36% cumulative returns over three years**, with approximately **3% maximum drawdown**.
+- Deployed the forecasting solution using **AWS SageMaker**.
+
+**Key Skills:** Time-Series Forecasting, Deep Learning, Feature Engineering, Model Evaluation, Backtesting, Cloud Deployment.
+
+### 🎬 2. Multimodal Sentiment Analysis Using Deep Learning
+
+**Tech Stack:** Python | TensorFlow | Keras | CNN | LSTM
+
+Explored deep learning architectures for sentiment classification using the IMDB dataset.
+
+- Developed multimodal neural network architectures combining CNN and LSTM techniques.
+- Applied data preprocessing, feature extraction, and sequential modelling.
+- Evaluated classification performance using precision, recall, and F1-score.
+- Investigated the effectiveness of different neural network architectures for sentiment prediction.
+
+**Key Skills:** Deep Learning, Sentiment Analysis, Classification, Neural Networks, Model Evaluation.
+
+### 🧪 3. A/B Testing & Statistical Experimentation | BT Group
+
+**Tech Stack:** Python | Pandas | SciPy | Statistical Hypothesis Testing | A/B Testing
+
+Conducted a two-week A/B experiment involving **50,000 customers**, randomly split into control and treatment groups of **25,000 customers each**, to evaluate the effectiveness of a promotional strategy on customer conversion.
+
+- Designed and analysed an A/B experiment comparing conversion rates between control and treatment groups.
+- Formulated null and alternative hypotheses to evaluate the effectiveness of the promotional strategy.
+- Applied a **two-proportion Z-test** to assess the statistical significance of differences in conversion rates.
+- Observed a **5% uplift in conversion**, providing insights to support promotional optimisation and commercial decision-making.
+- Translated experimental findings into actionable recommendations to improve customer engagement and marketing effectiveness.
+
+**Key Skills:** A/B Testing, Experimental Design, Hypothesis Testing, Statistical Inference, Conversion Rate Optimisation, Business Impact Analysis.
+
+### 📊 4. NYC Shooting Data Analysis
+
+**Tech Stack:** Python | Pandas | NumPy | Matplotlib | Data Visualisation
+
+Conducted exploratory data analysis on NYC shooting incident records to identify trends and patterns.
+
+- Cleaned and transformed datasets for statistical analysis.
+- Investigated geographical, temporal, and demographic patterns.
+- Developed visualisations to communicate findings and support data interpretation.
+
+**Key Skills:** Exploratory Data Analysis, Statistical Analysis, Data Cleaning, Data Visualisation.
 
 ---
 
-### What Drives Me
+## 💼 Applying Data Science in Industry
 
-- Solving real-world challenges with data
-- Making data intuitive and impactful
-- Continuous learning and collaboration
+Alongside my independent machine learning projects, I have applied advanced analytics and statistical techniques to business problems across FMCG, telecommunications, retail, and commercial operations.
+
+**RedCloud Technologies | Senior Data Analyst**
+
+- Developed data-driven pricing methodologies and revenue forecasting models, reducing pricing turnaround time by **20%**.
+- Analysed customer purchasing patterns, product performance, and retention behaviour to identify growth opportunities.
+- Built AI-assisted workflows for automated data cleaning and reporting using Snowflake data.
+- Processed large-scale transactional datasets using **Python, SQL, PySpark, and Databricks**.
+
+**BT Group | Data & Commercial Analytics**
+
+- Developed Python-based demand forecasting models that contributed to a **4% increase in market share** and **15% growth in accessories revenue**.
+- Conducted A/B testing involving **25,000 customers**, using statistical hypothesis testing to evaluate a **5% uplift**.
+- Built automated data validation pipelines using SQL and Google BigQuery.
+
+**Globacom | Customer Insights**
+
+- Applied customer behaviour and operational analysis to identify service improvement opportunities.
+- Analysed customer interaction patterns to support retention strategies and operational performance.
 
 ---
 
-### Let’s Connect
+## 🛠️ Technical Skills
 
-Iam open to collaborations, data-focused opportunities, and innovative projects.  
-🔗 [LinkedIn](https://www.linkedin.com/in/rukayat-mide-ibrahim)  
-📬 rukayatmideibrahim@gmail.com  
+| Category | Technologies |
+|---|---|
+| **Programming** | Python, SQL, PySpark, Git |
+| **Machine Learning** | scikit-learn, XGBoost, Regression, Classification, Ensemble Learning |
+| **Deep Learning** | TensorFlow, Keras, GRU, LSTM, CNN |
+| **Data Science Libraries** | Pandas, NumPy, Matplotlib |
+| **Statistical Methods** | Hypothesis Testing, A/B Testing, Statistical Modelling, Cross-Validation |
+| **Model Evaluation** | MAE, RMSE, MAPE, R², Precision, Recall, F1-Score, ROC-AUC |
+| **Cloud & ML Platforms** | AWS SageMaker, AWS S3, GCP, BigQuery, Databricks, Snowflake |
+| **Data Engineering** | Apache Spark, ETL, Data Pipelines, Data Preprocessing |
+| **Visualisation** | Power BI, Tableau, Qlik Sense, ThoughtSpot |
 
-🚀 Check out my pinned projects below — feel free to reach out or leave a ⭐ if something inspires you!
+---
+
+## 🎓 Education & Certifications
+
+**MSc Data Science with Placement — Distinction**  
+University of Hertfordshire, United Kingdom
+
+**B.Tech Pure & Applied Physics — First Class Honours**  
+Ladoke Akintola University of Technology, Nigeria
+
+**Certifications**
+- Microsoft Azure Data Fundamentals
+- Microsoft Generative AI for Data Analysis
+
+---
+
+## 🌱 Current Interests
+
+I'm continuing to expand my knowledge and practical experience in:
+
+- **Applied Machine Learning:** Developing predictive models for customer churn, propensity scoring, and behavioural analytics.
+- **MLOps & Model Deployment:** Building scalable machine learning pipelines and improving model monitoring.
+- **Artificial Intelligence:** Exploring AI agents and intelligent automation for data processing and analytical workflows.
+- **Advanced Predictive Analytics:** Applying machine learning to forecasting, commercial optimisation, and decision-support systems.
+
+---
+
+## 🎯 My Approach to Data Science
+
+I enjoy exploring the entire machine learning lifecycle, from understanding a problem and preparing data to experimenting with models, evaluating performance, and deploying solutions.
+
+For me, Data Science is about more than achieving high model accuracy. It's about building **reliable, interpretable, and practical solutions** that can make a meaningful difference.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in **Data Science, Machine Learning, Applied AI, and Predictive Analytics** opportunities, as well as collaborations on interesting technical projects.
+
+🔗 **LinkedIn:** [linkedin.com/in/rukayat-mide-ibrahim](https://www.linkedin.com/in/rukayat-mide-ibrahim)
+
+💻 **GitHub:** [github.com/Rukayat-spec](https://github.com/Rukayat-spec)
+
+📬 **Email:** rukayatmideibrahim@gmail.com
+
+⭐ Explore my repositories to see my work in machine learning, deep learning, forecasting, and data analysis!
